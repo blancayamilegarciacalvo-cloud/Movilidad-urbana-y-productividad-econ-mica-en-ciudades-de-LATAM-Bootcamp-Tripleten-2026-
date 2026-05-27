@@ -1,0 +1,2 @@
+# Movilidad-urbana-y-productividad-econ-mica-en-ciudades-de-LATAM-Bootcamp-Tripleten-2026-
+Analicé el impacto de la movilidad urbana en la economía de las principales ciudades de Latam en 2024. Con datos de TomTom y la OECD, limpié y procesé información para obtener métricas precisas. El análisis integró estadísticas y visualizaciones para recomendar inversiones estratégicas en infraestructura de transporte.
